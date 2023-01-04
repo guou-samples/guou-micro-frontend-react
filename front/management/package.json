@@ -1,5 +1,5 @@
 {
-  "name": "@frontend/menu",
+  "name": "@frontend/management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
